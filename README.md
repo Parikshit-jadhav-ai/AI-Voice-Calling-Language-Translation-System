@@ -222,5 +222,6 @@ MIT License - see LICENSE file for details
 
 ## 🙋‍♂️ Support
 
-For support, email support@example.com or create an issue in the repository.
+For support, email  jadhavparikshit2723@gmail.com
+or create an issue in the repository.
 # outreach_agent
